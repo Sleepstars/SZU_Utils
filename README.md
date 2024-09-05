@@ -11,15 +11,15 @@ https://blog.sleepstars.net/
 - 校园网部分：
 1. 宿舍区校园网 Openwrt 路由器多播脚本
 
-    位于 `/Network\宿舍区双播脚本.sh`
+    位于 `Network/宿舍区双播脚本.sh`
 
 2. 教学区电脑校园网自动登录脚本
 
-    位于 `Network\教学区登录脚本.cmd`
+    位于 `Network/教学区登录脚本.cmd`
 
 3. 宿舍区电脑校园网自动登录脚本
 
-    位于  `Network\宿舍区登陆脚本.cmd`
+    位于  `Network/宿舍区登陆脚本.cmd`
 
 
 等我哪天心血来潮肯定会写点新的活吧（一定（一定（一定
